@@ -1,3 +1,63 @@
 {
-  "add_an_image": "Add an image"
+  "add_an_image": "Add an image",
+  "add_name": "Add name",
+  "add_new": "Add new",
+  "add_position": "Add position",
+  "add_new_goal": "Add new goal",
+  "add_new_target": "Add new target",
+  "attach_files": "Attach files",
+  "add_Table": " Add Table",
+  "add_training_topics": "Add training topics",
+  "about_training": "About training",
+  "activities": "Activities",
+  "add_sub_activity": "Add sub-activity",
+  "add_new_activity": "Add new activity",
+  "attendances": "Attendances",
+  "available_trainings_completed_trainings": "Available trainings Completed trainings",
+  "available":"Available",
+  "blended": "Blended",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "change_view ": "Change view",
+  "canceled": "Canceled",
+  "completed": "Completed",
+  "canceled_trainings": "Canceled Trainings",
+  "confirmed": "Confirmed",
+  "currency": "Currency",
+  "copy_link": "Copy link",
+  "contract_time": "Contract time",
+  "contract_type": "Contract Type",
+  "curriculum_vitae": "Curriculum vitae",
+  "contract_type": "Contract Type",
+  "departments": "Departments",
+  "description": "Description",
+  "describes_the_departments_main_functions": "Describes the department's main functions",
+  "department": "Department",
+  "download": "Download",
+  "date": "Date",
+  "do_you_want_to_reject_the_training?": "Do you want to reject the training?",
+  "employees": "Employees",
+  "email ":"Email",
+  "external":"External",
+  "enter_the_department_name": "Enter the department name",
+  "enter_the_department_name": "Enter the department name",
+  "enter_the_table_name": "Enter the table name",
+  "enter_the_activity_name": "Enter the activity name",
+  "enter_a_score_from_0_to_100":"Enter a score from 0 to 100",
+  "goals": "Goals",
+  "guests":"Guests",
+  "home": "Home",
+  "internal":"Internal"
+
+
+
+  
+
+
+  
+
+
+
+
+
 }
