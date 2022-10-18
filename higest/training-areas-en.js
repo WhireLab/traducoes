@@ -117,6 +117,13 @@ module.exports = [{
   text: "Aquatic and Coastal Marine Biology",
   key: "area_34"
 }, {
+  text:"Animal Production"
+  
+}, {
+  text:"Veterinary Medicine"
+}, {  
+  text:"Zootechnics"
+}, {
   text: "Marine Biology and Biological Oceanography",
   key: "area_35"
 }, {

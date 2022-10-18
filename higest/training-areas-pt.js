@@ -996,6 +996,8 @@ module.exports = [
     key: "area_249"
   },
   {
+    text:"Produção Animal"
+  },{
     text: "Professor de Cosmetologia, Barbearia e Manicure",
     key: "area_250",
   },
@@ -1236,6 +1238,8 @@ module.exports = [
     key: "area_309"
   },
   {
+    text:"Veterinária"
+  }, {
     text: "Viagens",
     key: "area_310"
   },

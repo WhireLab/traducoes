@@ -43,6 +43,14 @@ module.exports = [{
         key: "area_11"
     },
     {
+    }, {
+      text:"Animal Production"
+      
+    }, {
+      text:"Veterinary Medicine"
+    }, {  
+      text:"Zootechnics"
+    }, {
         text: "Animation, Interactive Technology, Video Design and Special Effects",
         key: "area_12",
     },

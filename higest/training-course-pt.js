@@ -325,6 +325,8 @@ module.exports = [
     key: "area_250",
   },
   {
+    text:"Produção Animal"
+  },{
     text: "Programa de Residência Médica - Psiquiatria Infanto-Juvenil",
     key: "area_251",
   },
